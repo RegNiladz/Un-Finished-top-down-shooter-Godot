@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/GlockShoot.wav-97c6e43ea0102ec31c904c20a5a34611.sample"
+
+[deps]
+
+source_file="res://Assets/Audio/Glock/GlockShoot.wav"
+dest_files=[ "res://.import/GlockShoot.wav-97c6e43ea0102ec31c904c20a5a34611.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
